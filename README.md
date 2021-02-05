@@ -1,1 +1,1 @@
-# Student-Sysytem-
+# Student-System
